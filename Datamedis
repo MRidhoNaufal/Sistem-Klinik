@@ -1,0 +1,6 @@
+// Interface untuk penyimpanan data medis
+interface DataMedis {
+    void simpanRekamMedis();
+    // Metode terkait data medis lainnya
+    // ...
+}
